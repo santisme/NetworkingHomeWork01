@@ -1,5 +1,5 @@
 //
-//  HomeWork01Tests.swift
+//  RepositoryTests.swift
 //  HomeWork01Tests
 //
 //  Created by Santiago Sanchez merino on 12/07/2019.
@@ -7,9 +7,8 @@
 //
 
 import XCTest
-@testable import HomeWork01
 
-class HomeWork01Tests: XCTestCase {
+class RepositoryTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
