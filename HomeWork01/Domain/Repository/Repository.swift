@@ -13,36 +13,30 @@ final class Repository {
 }
 
 protocol RepositoryFactory {
-    var contacts: [Contact] { get }
+//    var contacts: [Contact] { get }
+    func getContacts(completion: @escaping ([Contact]) -> ())
+
 }
 
 final class RemoteFactory: RepositoryFactory {
-    let dispatchGroup = DispatchGroup()
-    let dispatchQueue = DispatchQueue.init(label: "com.keepcoding", attributes: .concurrent)
-    
-    var contacts: [Contact] {
-        
-        var tempContacts = [Contact]()
-        let stringUrl = "https://jsonplaceholder.typicode.com/users"
-        
-        getContacts(from: stringUrl) { contacts in
-            tempContacts = contacts
-        }
+//    var contacts: [Contact] {
+//        var contactList = [Contact]()
+//        getContacts(completion: {
+//            contactList = $0
+//        })
+//        return contactList
+//    }
 
-        dispatchGroup.notify(queue: dispatchQueue) {
-            print("Todas las tareas ASYNC finalizadas")
-            dump(tempContacts)
-            print(tempContacts.count)
-        }
-
-        return tempContacts
-    }
+    private let dispatchGroup = DispatchGroup()
+    private let dispatchQueue = DispatchQueue.init(label: "com.keepcoding", attributes: .concurrent)
     
 }
 
 extension RemoteFactory {
-    func getContacts(from urlString: String, completion: @escaping ([Contact]) -> ()) {
+    func getContacts(completion: @escaping ([Contact]) -> ()) {
         
+        let stringUrl = "https://jsonplaceholder.typicode.com/users"
+
         self.dispatchGroup.enter()
         self.dispatchQueue.async {
             var contacts = [Contact]()
@@ -50,7 +44,7 @@ extension RemoteFactory {
             let sessionConfig = URLSessionConfiguration.default
             let urlSession = URLSession(configuration: sessionConfig)
             
-            let url = URL(string: urlString)
+            let url = URL(string: stringUrl)
             
             let task = urlSession.dataTask(with: url!) { data, response, error in
                 if let contactData = data {

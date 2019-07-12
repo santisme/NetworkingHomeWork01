@@ -6,14 +6,14 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>2F1903E5-8A5A-4FB4-AEE0-6D1F7DFA8121</key>
+		<key>061A2055-69CE-470D-BC0E-FE58C218153C</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>5D445DDA-CA2A-40B6-B6B7-2F18643A64CB</string>
+			<string>DC86950C-341F-4921-BB23-A3F758A63766</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>W</string>
 			</dict>
 			<key>className</key>
 			<string>IDESchemeActionsInvocationRecord</string>
@@ -22,89 +22,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.unit.cocoaUnitTest</string>
 			<key>fileName</key>
-			<string>Test-HomeWork01-2019.07.12_17-27-56-+0200.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>HomeWork01 project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>HomeWork01</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Test HomeWork01</string>
-			<key>timeStartedRecording</key>
-			<real>584638076.66328001</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Test HomeWork01</string>
-			<key>uniqueIdentifier</key>
-			<string>2F1903E5-8A5A-4FB4-AEE0-6D1F7DFA8121</string>
-		</dict>
-		<key>2F97CABE-1BF6-420A-9F36-A5E2BF2E6D8C</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>F4DC878E-8976-41D1-ACFB-F9D34D32A72B</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.unit.cocoaUnitTest</string>
-			<key>fileName</key>
-			<string>Test-HomeWork01-2019.07.12_17-26-08-+0200.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>HomeWork01 project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>HomeWork01</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Test HomeWork01</string>
-			<key>timeStartedRecording</key>
-			<real>584637968.33485496</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Test HomeWork01</string>
-			<key>uniqueIdentifier</key>
-			<string>2F97CABE-1BF6-420A-9F36-A5E2BF2E6D8C</string>
-		</dict>
-		<key>51B78152-EA9E-43A5-951E-A70F99DD4187</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>00B5451E-8DFA-4282-BDF3-453CE92BE209</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.unit.cocoaUnitTest</string>
-			<key>fileName</key>
-			<string>Test-HomeWork01-2019.07.12_16-48-10-+0200.xcresult</string>
+			<string>Test-HomeWork01-2019.07.12_23-05-02-+0200.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -121,18 +39,18 @@
 			<key>signature</key>
 			<string>Test HomeWork01</string>
 			<key>timeStartedRecording</key>
-			<real>584635690.561566</real>
+			<real>584658302.09812105</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Test HomeWork01</string>
 			<key>uniqueIdentifier</key>
-			<string>51B78152-EA9E-43A5-951E-A70F99DD4187</string>
+			<string>061A2055-69CE-470D-BC0E-FE58C218153C</string>
 		</dict>
-		<key>603A575C-A3E1-49D8-A246-A200F5500498</key>
+		<key>0AC8224D-81CF-4125-B2F3-B74C065270C6</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>AFE80FB2-CA18-4176-88B9-AA4477209964</string>
+			<string>EFBDE5EE-97FF-4AFD-B2F7-F25C6F107E8A</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -145,7 +63,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.unit.cocoaUnitTest</string>
 			<key>fileName</key>
-			<string>Test-HomeWork01-2019.07.12_17-12-25-+0200.xcresult</string>
+			<string>Test-HomeWork01-2019.07.12_23-17-16-+0200.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -162,18 +80,18 @@
 			<key>signature</key>
 			<string>Test HomeWork01</string>
 			<key>timeStartedRecording</key>
-			<real>584637145.94785202</real>
+			<real>584659036.55750203</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Test HomeWork01</string>
 			<key>uniqueIdentifier</key>
-			<string>603A575C-A3E1-49D8-A246-A200F5500498</string>
+			<string>0AC8224D-81CF-4125-B2F3-B74C065270C6</string>
 		</dict>
-		<key>6C9BA5B1-2C39-4AF6-A425-5FB1CA1C9B79</key>
+		<key>0B68E2AD-F53C-4590-B2C0-90EDE5F226D2</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>19DC096B-FE30-42DB-AC51-A71EB9A091FB</string>
+			<string>F4D13576-9D76-4DCB-86CA-599F99CD4FDE</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -186,7 +104,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.unit.cocoaUnitTest</string>
 			<key>fileName</key>
-			<string>Test-HomeWork01-2019.07.12_16-50-03-+0200.xcresult</string>
+			<string>Test-HomeWork01-2019.07.12_23-08-24-+0200.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -203,18 +121,18 @@
 			<key>signature</key>
 			<string>Test HomeWork01</string>
 			<key>timeStartedRecording</key>
-			<real>584635803.21366894</real>
+			<real>584658504.23138201</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Test HomeWork01</string>
 			<key>uniqueIdentifier</key>
-			<string>6C9BA5B1-2C39-4AF6-A425-5FB1CA1C9B79</string>
+			<string>0B68E2AD-F53C-4590-B2C0-90EDE5F226D2</string>
 		</dict>
-		<key>7C67E48E-5924-468B-955A-2A3DD3444D4D</key>
+		<key>12D2B3A6-5918-46A2-B8D2-1501D9E22A12</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>B825BC65-0012-440D-9B07-C17D439EBA94</string>
+			<string>CDB09490-19D2-4F19-B7C9-822C31E2A6FC</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -227,7 +145,335 @@
 			<key>domainType</key>
 			<string>com.apple.dt.unit.cocoaUnitTest</string>
 			<key>fileName</key>
-			<string>Test-HomeWork01-2019.07.12_16-46-06-+0200.xcresult</string>
+			<string>Test-HomeWork01-2019.07.12_23-44-21-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>T</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HomeWork01 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HomeWork01</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Test HomeWork01</string>
+			<key>timeStartedRecording</key>
+			<real>584660661.97393095</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Test HomeWork01</string>
+			<key>uniqueIdentifier</key>
+			<string>12D2B3A6-5918-46A2-B8D2-1501D9E22A12</string>
+		</dict>
+		<key>38AC2959-829F-438C-B706-3E10EE9EBEB9</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>FE2B4123-2FE7-476B-B222-DD519BB0CDF6</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-HomeWork01-2019.07.12_23-10-57-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>T</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HomeWork01 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HomeWork01</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Test HomeWork01</string>
+			<key>timeStartedRecording</key>
+			<real>584658657.55836594</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Test HomeWork01</string>
+			<key>uniqueIdentifier</key>
+			<string>38AC2959-829F-438C-B706-3E10EE9EBEB9</string>
+		</dict>
+		<key>3C2540E4-22DF-4CE8-B67F-13A26FD9733E</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>F4BD87F0-6872-44EA-AB53-2205D07C0B0D</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-HomeWork01-2019.07.12_23-23-12-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HomeWork01 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HomeWork01</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Test HomeWork01</string>
+			<key>timeStartedRecording</key>
+			<real>584659392.84179294</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Test HomeWork01</string>
+			<key>uniqueIdentifier</key>
+			<string>3C2540E4-22DF-4CE8-B67F-13A26FD9733E</string>
+		</dict>
+		<key>3C7FBD53-3856-4765-9AE3-4B6B99402A84</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>731B1089-27B0-4391-AF86-B092380A65D9</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-HomeWork01-2019.07.12_23-25-24-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>T</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HomeWork01 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HomeWork01</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Test HomeWork01</string>
+			<key>timeStartedRecording</key>
+			<real>584659524.85013294</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Test HomeWork01</string>
+			<key>uniqueIdentifier</key>
+			<string>3C7FBD53-3856-4765-9AE3-4B6B99402A84</string>
+		</dict>
+		<key>41B9EB1B-570E-4A20-97C3-2FE09893F91B</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>FF2394C6-E96E-467F-B23C-BF9185B3AC4C</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-HomeWork01-2019.07.12_23-06-43-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HomeWork01 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HomeWork01</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Test HomeWork01</string>
+			<key>timeStartedRecording</key>
+			<real>584658403.95146203</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Test HomeWork01</string>
+			<key>uniqueIdentifier</key>
+			<string>41B9EB1B-570E-4A20-97C3-2FE09893F91B</string>
+		</dict>
+		<key>47E611EE-96E1-4E2F-AAEA-3A42CD21036A</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>A8627913-AF44-45EC-A21A-5755BFA59A01</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-HomeWork01-2019.07.12_23-16-54-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>T</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HomeWork01 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HomeWork01</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Test HomeWork01</string>
+			<key>timeStartedRecording</key>
+			<real>584659014.93038094</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Test HomeWork01</string>
+			<key>uniqueIdentifier</key>
+			<string>47E611EE-96E1-4E2F-AAEA-3A42CD21036A</string>
+		</dict>
+		<key>51CD4A88-1645-4D83-99AB-AE8AB71A012E</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>9DEFF11B-CE51-4505-ACB7-3A250CAF7F1B</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-HomeWork01-2019.07.12_23-43-23-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HomeWork01 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HomeWork01</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Test HomeWork01</string>
+			<key>timeStartedRecording</key>
+			<real>584660603.15673196</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Test HomeWork01</string>
+			<key>uniqueIdentifier</key>
+			<string>51CD4A88-1645-4D83-99AB-AE8AB71A012E</string>
+		</dict>
+		<key>6A9BEC25-5AC4-472E-B054-A727568DC56A</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>4ED5F4EB-7C10-423D-A7A4-4A3D4E53FBAF</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-HomeWork01-2019.07.12_23-41-34-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HomeWork01 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HomeWork01</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Test HomeWork01</string>
+			<key>timeStartedRecording</key>
+			<real>584660494.77118397</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Test HomeWork01</string>
+			<key>uniqueIdentifier</key>
+			<string>6A9BEC25-5AC4-472E-B054-A727568DC56A</string>
+		</dict>
+		<key>6C1F877E-A707-4A57-B3D2-3A76C3CCB9C0</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>92657A23-59B1-41F8-A966-C9AB17257DE5</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-HomeWork01-2019.07.12_23-42-56-+0200.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -244,18 +490,18 @@
 			<key>signature</key>
 			<string>Test HomeWork01</string>
 			<key>timeStartedRecording</key>
-			<real>584635566.95233297</real>
+			<real>584660576.71928895</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Test HomeWork01</string>
 			<key>uniqueIdentifier</key>
-			<string>7C67E48E-5924-468B-955A-2A3DD3444D4D</string>
+			<string>6C1F877E-A707-4A57-B3D2-3A76C3CCB9C0</string>
 		</dict>
-		<key>9F02BD8D-1ED8-4316-B74A-12748A00BBB0</key>
+		<key>8533BC24-1C1A-4E8B-952A-5F48A8528DB4</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>28A74E47-6FDD-47E6-A971-A191B11E6541</string>
+			<string>AD37F57D-895C-47A0-9155-3F6A1D0302B2</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -268,7 +514,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.unit.cocoaUnitTest</string>
 			<key>fileName</key>
-			<string>Test-HomeWork01-2019.07.12_17-27-34-+0200.xcresult</string>
+			<string>Test-HomeWork01-2019.07.12_23-44-08-+0200.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -285,18 +531,59 @@
 			<key>signature</key>
 			<string>Test HomeWork01</string>
 			<key>timeStartedRecording</key>
-			<real>584638054.13099802</real>
+			<real>584660648.52861798</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Test HomeWork01</string>
 			<key>uniqueIdentifier</key>
-			<string>9F02BD8D-1ED8-4316-B74A-12748A00BBB0</string>
+			<string>8533BC24-1C1A-4E8B-952A-5F48A8528DB4</string>
 		</dict>
-		<key>A96DE712-6CC6-4DF6-AA50-44A68CDB1796</key>
+		<key>898494B0-F42E-45C9-9C13-AA5944042B67</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>AFAF3BD3-BD90-43DE-8122-E1BE8230EDDD</string>
+			<string>51733AA9-45C2-49E7-AA88-569F126F9D2B</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-HomeWork01-2019.07.12_23-09-34-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>T</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HomeWork01 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HomeWork01</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Test HomeWork01</string>
+			<key>timeStartedRecording</key>
+			<real>584658574.67225099</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Test HomeWork01</string>
+			<key>uniqueIdentifier</key>
+			<string>898494B0-F42E-45C9-9C13-AA5944042B67</string>
+		</dict>
+		<key>93283423-7678-4911-A756-5419372820B3</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>AAB95C11-2A66-43F4-ABFD-A5465C77ECBC</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -309,7 +596,48 @@
 			<key>domainType</key>
 			<string>com.apple.dt.unit.cocoaUnitTest</string>
 			<key>fileName</key>
-			<string>Test-HomeWork01-2019.07.12_17-27-15-+0200.xcresult</string>
+			<string>Test-HomeWork01-2019.07.12_23-25-18-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>T</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HomeWork01 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HomeWork01</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Test HomeWork01</string>
+			<key>timeStartedRecording</key>
+			<real>584659518.95859694</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Test HomeWork01</string>
+			<key>uniqueIdentifier</key>
+			<string>93283423-7678-4911-A756-5419372820B3</string>
+		</dict>
+		<key>9A1AC702-9C3C-4DD3-AEBC-274C18D6DFF0</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>32030CB6-772A-4AAA-8FEA-8E17F78924F3</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-HomeWork01-2019.07.12_23-44-33-+0200.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -326,13 +654,218 @@
 			<key>signature</key>
 			<string>Test HomeWork01</string>
 			<key>timeStartedRecording</key>
-			<real>584638035.14921701</real>
+			<real>584660673.49780703</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Test HomeWork01</string>
 			<key>uniqueIdentifier</key>
-			<string>A96DE712-6CC6-4DF6-AA50-44A68CDB1796</string>
+			<string>9A1AC702-9C3C-4DD3-AEBC-274C18D6DFF0</string>
+		</dict>
+		<key>9DC3D38D-CC10-4DED-89C8-FC79FAE13FBE</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>BA3B6018-4AF2-4C29-BC1E-2AB900620C8B</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-HomeWork01-2019.07.12_23-05-49-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>T</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HomeWork01 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HomeWork01</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Test HomeWork01</string>
+			<key>timeStartedRecording</key>
+			<real>584658349.97946203</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Test HomeWork01</string>
+			<key>uniqueIdentifier</key>
+			<string>9DC3D38D-CC10-4DED-89C8-FC79FAE13FBE</string>
+		</dict>
+		<key>ABC94E79-0DDF-4774-BCA2-A745BAAF9A5C</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>9DE80AEF-18C2-407C-A8B1-9C90034D2910</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-HomeWork01-2019.07.12_23-47-30-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HomeWork01 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HomeWork01</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Test HomeWork01</string>
+			<key>timeStartedRecording</key>
+			<real>584660850.256109</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Test HomeWork01</string>
+			<key>uniqueIdentifier</key>
+			<string>ABC94E79-0DDF-4774-BCA2-A745BAAF9A5C</string>
+		</dict>
+		<key>B64C64BB-70B5-43F7-A04E-FE1365013A07</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>310A5B78-B6A9-43EA-B2D3-61A5366E08AC</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-HomeWork01-2019.07.12_23-04-07-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>T</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HomeWork01 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HomeWork01</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Test HomeWork01</string>
+			<key>timeStartedRecording</key>
+			<real>584658247.02612901</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Test HomeWork01</string>
+			<key>uniqueIdentifier</key>
+			<string>B64C64BB-70B5-43F7-A04E-FE1365013A07</string>
+		</dict>
+		<key>BCE7B20F-66A4-4518-8570-4D1DB539D2EA</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>30AC7C4A-0835-46F9-82EA-29F09E17C64A</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-HomeWork01-2019.07.12_23-25-30-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HomeWork01 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HomeWork01</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Test HomeWork01</string>
+			<key>timeStartedRecording</key>
+			<real>584659530.04373503</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Test HomeWork01</string>
+			<key>uniqueIdentifier</key>
+			<string>BCE7B20F-66A4-4518-8570-4D1DB539D2EA</string>
+		</dict>
+		<key>C6E47185-B575-4D6A-B823-4DEA17FE0C93</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>8BFE16F5-84D7-440F-B504-5AEA49AF870A</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-HomeWork01-2019.07.12_23-16-06-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>T</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HomeWork01 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HomeWork01</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Test HomeWork01</string>
+			<key>timeStartedRecording</key>
+			<real>584658966.17807496</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Test HomeWork01</string>
+			<key>uniqueIdentifier</key>
+			<string>C6E47185-B575-4D6A-B823-4DEA17FE0C93</string>
 		</dict>
 		<key>D84229F0-80C6-4BA9-950F-A32F67150390</key>
 		<dict>
@@ -375,10 +908,10 @@
 			<key>uniqueIdentifier</key>
 			<string>D84229F0-80C6-4BA9-950F-A32F67150390</string>
 		</dict>
-		<key>DF5A3AEF-AA7F-438E-BF28-BB38289468B8</key>
+		<key>EC991B4D-6174-48EB-9C27-B6F8927A7D26</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>F3ED787D-FC34-45E8-B563-83D7C557ACCE</string>
+			<string>406CC059-B288-42C4-9397-D9AF994D88A2</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -391,7 +924,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.unit.cocoaUnitTest</string>
 			<key>fileName</key>
-			<string>Test-HomeWork01-2019.07.12_16-47-08-+0200.xcresult</string>
+			<string>Test-HomeWork01-2019.07.12_23-24-52-+0200.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -408,59 +941,18 @@
 			<key>signature</key>
 			<string>Test HomeWork01</string>
 			<key>timeStartedRecording</key>
-			<real>584635628.010584</real>
+			<real>584659492.06434095</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Test HomeWork01</string>
 			<key>uniqueIdentifier</key>
-			<string>DF5A3AEF-AA7F-438E-BF28-BB38289468B8</string>
+			<string>EC991B4D-6174-48EB-9C27-B6F8927A7D26</string>
 		</dict>
-		<key>E83C9257-1225-471F-BE2C-2FABFC09A5F3</key>
+		<key>ED870F8A-AABB-4CC3-A185-95403A81A78C</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>54B373E0-8412-4698-A40E-0DDA10C19F16</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.unit.cocoaUnitTest</string>
-			<key>fileName</key>
-			<string>Test-HomeWork01-2019.07.12_16-48-00-+0200.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>HomeWork01 project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>HomeWork01</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Test HomeWork01</string>
-			<key>timeStartedRecording</key>
-			<real>584635680.22354996</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Test HomeWork01</string>
-			<key>uniqueIdentifier</key>
-			<string>E83C9257-1225-471F-BE2C-2FABFC09A5F3</string>
-		</dict>
-		<key>F1BFCEE4-1F6F-4EF5-B737-FF031A0D1F30</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>98C4E09D-5469-400A-B9A4-7388FEE94D5E</string>
+			<string>2ED11852-292D-45C2-A86C-CF55554D5B01</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -473,7 +965,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.unit.cocoaUnitTest</string>
 			<key>fileName</key>
-			<string>Test-HomeWork01-2019.07.12_16-59-42-+0200.xcresult</string>
+			<string>Test-HomeWork01-2019.07.12_23-46-00-+0200.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -490,13 +982,54 @@
 			<key>signature</key>
 			<string>Test HomeWork01</string>
 			<key>timeStartedRecording</key>
-			<real>584636382.57028496</real>
+			<real>584660760.095402</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Test HomeWork01</string>
 			<key>uniqueIdentifier</key>
-			<string>F1BFCEE4-1F6F-4EF5-B737-FF031A0D1F30</string>
+			<string>ED870F8A-AABB-4CC3-A185-95403A81A78C</string>
+		</dict>
+		<key>FFFF93C5-6383-4519-8036-38156C08EE9B</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>2357465B-E418-40E2-99BA-B62BAE6D861F</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-HomeWork01-2019.07.12_23-02-17-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>T</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HomeWork01 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HomeWork01</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Test HomeWork01</string>
+			<key>timeStartedRecording</key>
+			<real>584658137.77017403</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Test HomeWork01</string>
+			<key>uniqueIdentifier</key>
+			<string>FFFF93C5-6383-4519-8036-38156C08EE9B</string>
 		</dict>
 	</dict>
 </dict>

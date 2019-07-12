@@ -11,11 +11,18 @@ import UIKit
 class HomeViewController: UIViewController {
 
     var model: [Contact]?
+    let cellId = "ContactCell"
     @IBOutlet weak var tableView: UITableView!
     
     init() {
-        self.model = Repository.factory.contacts
+        self.model = [Contact]()
         super.init(nibName: nil, bundle: Bundle(for: type(of: self)))
+        Repository.factory.getContacts(completion: {
+            self.model = $0
+            DispatchQueue.main.async {
+                self.tableView.reloadData()
+            }
+        })
     }
     
     required init?(coder aDecoder: NSCoder) {
@@ -36,7 +43,11 @@ extension HomeViewController: UITableViewDataSource {
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        return UITableViewCell()
+        let cell = self.tableView.dequeueReusableCell(withIdentifier: cellId) ?? UITableViewCell(style: .subtitle, reuseIdentifier: cellId)
+        cell.textLabel?.text = self.model?[indexPath.row].name
+        cell.detailTextLabel?.text = self.model?[indexPath.row].email
+        
+        return cell
     }
     
 }

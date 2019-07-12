@@ -10,9 +10,9 @@ import XCTest
 @testable import HomeWork01
 
 class RepositoryTests: XCTestCase {
-
+    
     override func setUp() {
-        // Put setup code here. This method is called before the invocation of each test method in the class.
+
     }
 
     override func tearDown() {
@@ -24,14 +24,26 @@ class RepositoryTests: XCTestCase {
     }
     
     func testRepositoryContactsExistence() {
-        XCTAssertNotNil(Repository.factory.contacts)
+        var contactList: [Contact]?
+        let expectations = expectation(description: "Contacts list")
+        Repository.factory.getContacts(completion: {
+            contactList = $0
+            expectations.fulfill()
+        })
+        waitForExpectations(timeout: 5, handler: nil)
+        XCTAssertNotNil(contactList)
     }
     
     func testRepositoryContactCount() {
-        Repository.factory.dispatchGroup.notify(queue: Repository.factory.dispatchQueue) {
-            XCTAssertEqual(Repository.factory.contacts.count, 10)
-            print("Número de contactos descargados: \(Repository.factory.contacts.count)")
-        }
+        var contactList: [Contact]?
+        let expectations = expectation(description: "Contacts list count")
+        Repository.factory.getContacts(completion: {
+            contactList = $0
+            expectations.fulfill()
+        })
+        waitForExpectations(timeout: 5, handler: nil)
+        XCTAssertEqual(contactList?.count, 10)
+        print("Número de contactos descargados: \(contactList!.count)")
     }
     
     
