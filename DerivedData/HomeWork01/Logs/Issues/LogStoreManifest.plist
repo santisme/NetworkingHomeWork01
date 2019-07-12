@@ -5,7 +5,60 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>220F731A-CA48-48FF-BAA2-83A94B54EBE0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>220F731A-CA48-48FF-BAA2-83A94B54EBE0.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>HomeWork01-dvxumrbydfmdohascxlglzqzjwsp</string>
+			<key>timeStartedRecording</key>
+			<real>584638035.31167805</real>
+			<key>timeStoppedRecording</key>
+			<real>584638035.59593105</real>
+			<key>title</key>
+			<string>Build target HomeWork01</string>
+			<key>uniqueIdentifier</key>
+			<string>220F731A-CA48-48FF-BAA2-83A94B54EBE0</string>
+		</dict>
+		<key>C0939C7F-A083-4019-B043-F8BFC86517B1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<key>fileName</key>
+			<string>C0939C7F-A083-4019-B043-F8BFC86517B1.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>HomeWork01Tests-dvxumrbydfmdohascxlglzqzjwsp</string>
+			<key>timeStartedRecording</key>
+			<real>584638076.74074697</real>
+			<key>timeStoppedRecording</key>
+			<real>584638077.27352595</real>
+			<key>title</key>
+			<string>Build target HomeWork01Tests</string>
+			<key>uniqueIdentifier</key>
+			<string>C0939C7F-A083-4019-B043-F8BFC86517B1</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>

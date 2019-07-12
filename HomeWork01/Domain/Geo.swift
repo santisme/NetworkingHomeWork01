@@ -7,3 +7,8 @@
 //
 
 import Foundation
+
+struct Geo {
+    let lat: String!
+    let lng: String!
+}
